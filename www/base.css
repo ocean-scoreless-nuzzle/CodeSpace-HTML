@@ -1,0 +1,8 @@
+  .right{
+    text-align:right;
+    }
+  .border{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+  }
